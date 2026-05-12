@@ -1,4 +1,3 @@
-# ESP-Hacker
 # ESP-Hacker ⚡
 
 A comprehensive, low-level firmware suite designed for the ESP32 platform. This project enables security auditing, Wi-Fi network analysis, and hardware-level penetration testing. It leverages the native promiscuous mode of the ESP32 to monitor, capture, and interact with 802.11 wireless frames in real-time.
