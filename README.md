@@ -58,4 +58,4 @@ A comprehensive, low-level firmware suite designed for the ESP32 platform. This 
 
 ## 🛡️ Disclaimer
 
-This software is developed strictly for educational purposes, authorized security auditing, and defensive research. Do not use this tool on networks or devices without explicit, written permission from the owner. The author accepts no liability for misuse, network disruption, or legal violations caused by this software.
+This software is developed strictly for educational purposes, authorized security auditing, and defensive research. Do not use this tool on networks or devices without explicit, written permission from the owner. The author accepts no liability for misuse, network disruption, or legal violations caused by this software.I am not responsible for all the things that you did.
